@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-    int num1 = 50;
-    int num2 = 100;
+    int num1 = 25;
+    int num2 = 75;
     int total = num1 + num2;
 
     cout << "Total: " << total << endl;
